@@ -2,6 +2,7 @@ program hello;// ubah menjadfi program APCI-1301154098-if 39-14
 uses Crt
 begin
 clrsr;
+writeln;
   writeln('Hello');//untuk mengeluarkan string'hello' di layar
   writeln('1301154098');//ubah untuk tampilan nim
   writeln('Davin Edward');//ubah untuk menampilkan nama anda
