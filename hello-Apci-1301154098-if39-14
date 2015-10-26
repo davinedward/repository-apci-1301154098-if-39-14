@@ -1,0 +1,12 @@
+program hello;// ubah menjadfi program APCI-1301154098-if 39-14
+uses Crt
+begin
+clrsr;
+  writeln('Hello');//untuk mengeluarkan string'hello' di layar
+  writeln('1301154098');//ubah untuk tampilan nim
+  writeln('Davin Edward');//ubah untuk menampilkan nama anda
+  writeln('IF 39-14');//ubah untuk menampilkan kelas anda
+  writeln('WIDA');//ubah untuk menampilkan nama asprak
+  writeln('1301154406');//ubah untuk menampilkan nim teman
+  writeln('modul 6');//ubah untuk menampilkan string 'modul 6'
+End.
